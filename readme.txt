@@ -4,4 +4,4 @@ Xiejingbo change number 1;
 
 Jianbi fab jibe loser
 
-Create new Branch dev
+Creating a new branch is quick & simple.
